@@ -1,0 +1,5 @@
+{
+    "excluded_directories": ["node_modules", ".git", "build", "dist", "venv"],
+    "excluded_files": [".env", ".env.local", ".DS_Store", "package-lock.json", "yarn.lock", "*.pyc", "*.class"]
+  }
+  

@@ -1,0 +1,3 @@
+You are tasked with analyzing and providing updates or advice on the code based on the project's key resources. First, review the project-structure-abbreviated.md to understand the key directories and files. If available, review the project-summary.md for a high-level overview of the project. Additionally, examine the project-key-files.zip for the essential files.
+
+Focus on source code (e.g., .py, .js, .ts) and configuration files (Dockerfile, .env, package.json). Provide specific suggestions for code improvements, updates, or general coding advice, referencing the relevant files or functions.

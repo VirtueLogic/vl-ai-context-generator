@@ -1,0 +1,54 @@
+{
+    "root-project": {
+      ".git": {},
+      "backend": {
+        "app": {
+          "__init__.py": "",
+          "main.py": "",
+          "models.py": "",
+          "routes.py": "",
+          "utils.py": ""
+        },
+        "tests": {},
+        ".dockerignore": "",
+        ".env": "",
+        "Dockerfile": "",
+        "requirements.txt": ""
+      },
+      "frontend": {
+        "build": {},
+        "node_modules": {},
+        "public": {
+          "index.html": ""
+        },
+        "src": {
+          "components": {
+            "ErrorBoundary.js": "",
+            "HaikuGenerator.js": "",
+            "Header.js": ""
+          },
+          "pages": {
+            "Home.js": ""
+          },
+          "services": {},
+          "styles": {
+            "index.css": ""
+          },
+          "App.js": "",
+          "index.js": ""
+        },
+        ".dockerignore": "",
+        "Dockerfile": "",
+        "package.json": "",
+        "package-lock.json": ""
+      },
+      "infra": {
+        ".gitignore": "",
+        "createStructure.py": "",
+        "docker-compose.yml": ""
+      },
+      "PROJECT-SUMMARY.md": "",
+      "README.md": ""
+    }
+  }
+  
